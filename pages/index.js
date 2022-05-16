@@ -13,7 +13,7 @@ const IndexPage = () => {
         <div className="container">
           <article style={{backgroundImage: 'url(/images/recipes.jpg)'}} className="featured-item featured-item-large">
             <div className="featured-item__content">
-              <h3>My favorite songs</h3>
+              <h3>My recipes</h3>
               <a href="#" className="btn btn--rounded">Click here</a>
             </div>
           </article>
